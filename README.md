@@ -147,6 +147,6 @@ Results for each sample size ```(n = 20, 30, 40, 50, 100, 200, 500)``` were obta
 
 - **Dra. Laís Helen Loose**
 
-- **Dr. Moisés da Silva Melo**
+- **Dr. Moizes da Silva Melo**
 
 </div>
