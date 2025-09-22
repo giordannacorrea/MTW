@@ -1,5 +1,8 @@
 <div class="text-justify">
+
+
 # Modal Truncated Weibull (MTW)
+
 
 This repository contains the code and simulations used in the article associated with the new modal regression based on Weibull truncated distribution, including applications and a simulation study.
 
