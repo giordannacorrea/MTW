@@ -87,7 +87,7 @@ This section presents an example using the **modal truncated Weibull** distribut
 
 ### Density Behavior
 
-These plots demonstrate how the shape parameter \(\phi\) affects the distribution's skewness and peakedness, highlighting its adaptability to various data patterns.
+These plots demonstrate how the shape parameter φ affects the distribution's skewness and peakedness, highlighting its adaptability to various data patterns.
 
 <!-- PDF -->
 <table>
@@ -97,7 +97,7 @@ These plots demonstrate how the shape parameter \(\phi\) affects the distributio
   </tr>
 </table>
 
-**Figure 1.** *Probability density functions of the MTW distribution under different shape parameters \(\phi\), with fixed location parameters \(m = -0.7\) (left) and \(m = 0.5\) (right).*
+**Figure 1.** *Probability density functions of the MTW distribution under different shape parameters φ, with fixed location parameters \(m = -0.7\) (left) and \(m = 0.5\) (right).*
 
 ### Real-world dataset
 
