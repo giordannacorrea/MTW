@@ -136,4 +136,14 @@ Results for each sample size ```(n = 20, 30, 40, 50, 100, 200, 500)``` were obta
 
 - ```functions_graph_summary.R```, ```otimizacaoWT.R```, and ```random_weibullT.R```: helper scripts used for custom random generation, model fitting, and plotting.
 
+
+## Authors
+
+- **Giordanna Oliveira Corrêa**
+
+- **Jhonnata Bezerra de Carvalho**
+
+- **Jeremias da Silva Leão**
+
+
 </div>
